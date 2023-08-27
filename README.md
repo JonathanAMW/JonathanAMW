@@ -1,4 +1,4 @@
-<img align="center" width="1080" height="512" src="https://media2.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif?cid=ecf05e4710lmi0vyqe3kp9kswp9jil272nnkpx3dqul8tkr2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
+<img align="center" width="1080" src="https://media2.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif?cid=ecf05e4710lmi0vyqe3kp9kswp9jil272nnkpx3dqul8tkr2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
 
 <h1></h1>
 
