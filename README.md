@@ -1,6 +1,6 @@
 <img align="center" width="1080" src="https://media2.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif?cid=ecf05e4710lmi0vyqe3kp9kswp9jil272nnkpx3dqul8tkr2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
-<h1 align="center">Hi 👋, I'm Ananta Miyoru Wijaya</h1>
-<h3 align="center">An Undergraduate Game Technology Student At Politeknik Elektronika Negeri Surabaya</h3>
+<h1 align="center">👋Hi, I'm Ananta Miyoru Wijaya👋</h1>
+<h3 align="center">🏫An Undergraduate Game Technology Student At Politeknik Elektronika Negeri Surabaya🏫</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 
