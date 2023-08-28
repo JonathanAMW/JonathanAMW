@@ -48,6 +48,3 @@
   <img height="180em" src="https://github-readme-stats-jamw.vercel.app/api/top-langs/?username=jonathanamw&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanamw&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/>
 </div>
-
-
-
