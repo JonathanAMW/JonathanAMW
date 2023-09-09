@@ -23,7 +23,7 @@
 
 &emsp; 🌱 I’m currently learning **C++, C#, Unity (Mobile and Computer)**
 
-&emsp; 📫 How to reach me **anantamiyoruwijaya2@gmail.com**
+&emsp; 📫 You can reach me at **anantamiyoruwijaya2@gmail.com**
 
 &emsp;
 
