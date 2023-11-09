@@ -1,6 +1,3 @@
-<img align="center" width="1080" src="https://media2.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif?cid=ecf05e4710lmi0vyqe3kp9kswp9jil272nnkpx3dqul8tkr2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
-
-<h1></h1>
 
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anurati&size=35&duration=3000&pause=1500&color=72F5FF&background=FF000000&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8BHi%2C+There%F0%9F%91%8B;%F0%9F%8C%9CI'm+Ananta+Miyoru+Wijaya%F0%9F%8C%9B" alt="Typing SVG" /></a>
