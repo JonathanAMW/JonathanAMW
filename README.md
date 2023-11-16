@@ -7,7 +7,7 @@
 <h3 align="center">
   
   <p></p><p align="center"> <img src="https://komarev.com/ghpvc/?username=jonathanamw&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanamw" /> </p>
-  🏫 An Undergraduate Game Technology Student At Electronic Engineering Polytechnic Institute of Surabaya 🏫
+  🏫 A Game Technology Student At Electronic Engineering Polytechnic Institute of Surabaya 🏫
 
 </h3>
 
