@@ -14,7 +14,7 @@
 
 &emsp; 
 
-&emsp; 📚 Currently studying at Electronic Engineering Polytechnic Institute of Surabaya.
+&emsp; 📚 Currently studying at [EEPIS](https://www.pens.ac.id).
 
 &emsp; 🌱 Currently working with C# and Unity Engine.
 
