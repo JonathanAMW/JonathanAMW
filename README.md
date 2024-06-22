@@ -39,10 +39,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanamw&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanamw&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/>
 </div>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/ananta-miyoru-wijaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananta-miyoru-wijaya" height="30" width="40" /></a>
-<a href="mailto:anantamiyoruwijaya2@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg" alt="jonathanamw" height="30" width="40" /></a>
-</p>
