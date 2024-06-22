@@ -14,9 +14,9 @@
 
 &emsp; 
 
-&emsp; 📚 Currently studying Game Technology at Electronic Engineering Polytechnic Institute of Surabaya.
+&emsp; 📚 Currently studying at Electronic Engineering Polytechnic Institute of Surabaya.
 
-&emsp; 🌱 Currently working with **C# and Unity Engine** for developing games.
+&emsp; 🌱 Currently working with **C# and Unity Engine**.
 
 &emsp; 📚 Have some experiences in **C, C++, and Unreal Engine**
 
