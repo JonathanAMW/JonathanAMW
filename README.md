@@ -1,12 +1,12 @@
 
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anurati&size=35&duration=3000&pause=1500&color=72F5FF&background=FF000000&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8BHi%2C+There%F0%9F%91%8B;%F0%9F%8C%9CI'm+Ananta+Miyoru+Wijaya%F0%9F%8C%9B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anurati&size=35&duration=3000&pause=1500&color=72F5FF&background=FF000000&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8BHi%2C+There%F0%9F%91%8B;" alt="Typing SVG" /></a>
 </h1>
 
 
 <h3 align="center">
   <p></p><p align="center"> <img src="https://komarev.com/ghpvc/?username=jonathanamw&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanamw" /> </p>
-  🏫 A Game Technology Student At Electronic Engineering Polytechnic Institute of Surabaya 🏫
+  A Regular Guy
 </h3>
 
 <hr>
@@ -14,13 +14,13 @@
 
 &emsp; 
 
-&emsp; 📚 Currently studying at Politeknik Elektronika Negeri Surabaya.
+&emsp; 📚 Currently studying Game Technology at Electronic Engineering Polytechnic Institute of Surabaya.
 
-&emsp; 🌱 Been working with **C++, C#, Unity(2D and 3D)** for two years.
+&emsp; 🌱 Currently working with **C# and Unity Engine** for developing games.
 
-&emsp; ‼️ Interested in Game Development.
+&emsp; 📚 Have some experiences in **C, C++, and Unreal Engine**
 
-&emsp; 😶 Likes playing games. 
+&emsp; 😶 Interested in Game Development. 
 
 &emsp;
 
