@@ -14,8 +14,6 @@
 
 &emsp; 
 
-&emsp; 📚 Currently studying at [EEPIS](https://www.pens.ac.id).
-
 &emsp; 🌱 Currently working with C# and Unity Engine.
 
 &emsp; 📚 Have some experiences in C, C++, and Unreal Engine.
