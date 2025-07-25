@@ -18,9 +18,11 @@
 
 &emsp; 📚 Have some experiences in C, C++, and Unreal Engine.
 
-&emsp; 😶 Interested in Game Development. 
+&emsp; 😶 Interested in Game Development.
 
-&emsp;
+&emsp; 🍪 Here's a cookie!
+
+&emsp; 
 
 <hr>
 
@@ -36,6 +38,6 @@
 <div align="center">
   <a href="https://github.com/jonathanamw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanamw&show_icons=true&theme=tokyonight&hide_border=true&locale=en"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanamw&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanamw&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanamw&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/>
 </div>
